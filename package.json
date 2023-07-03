@@ -1,0 +1,17 @@
+{
+  "name": "hackernews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetchNews.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.3.9"
+  }
+}
